@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">来电助手</string>
+
+    <string name="pref_title_global_switch">开启来电监听</string>
+    <string name="pref_title_contact">监听联系人</string>
+    <string name="who_call_in">%1$s来电</string>
+    <string name="notification_title">来电助手运行中...</string>
+    <string name="not_set">未设置</string>
+</resources>
